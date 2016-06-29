@@ -6,6 +6,12 @@ This project will help you to install .apk file into multiple connected devices 
 
 
 
+Download tool from below location
+https://github.com/Rajeshnarikenabilli/Maai/releases
+
+
+
+
 
 
 
